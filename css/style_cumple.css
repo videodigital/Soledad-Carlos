@@ -1,0 +1,1002 @@
+@-webkit-keyframes fall {
+	0% {
+		opacity: 0.9;
+		top: 0
+	}
+	100% {
+		opacity: 0.2;
+		top: 100%
+	}
+}
+
+@keyframes fall {
+	0% {
+		opacity: 0.9;
+		top: 0
+	}
+	100% {
+		opacity: 0.2;
+		top: 100%
+	}
+}
+
+@-webkit-keyframes blow-soft-left {
+	0% {
+		margin-left: 0
+	}
+	100% {
+		margin-left: -50%
+	}
+}
+
+@keyframes blow-soft-left {
+	0% {
+		margin-left: 0
+	}
+	100% {
+		margin-left: -50%
+	}
+}
+
+@-webkit-keyframes blow-medium-left {
+	0% {
+		margin-left: 0
+	}
+	100% {
+		margin-left: -100%
+	}
+}
+
+@keyframes blow-medium-left {
+	0% {
+		margin-left: 0
+	}
+	100% {
+		margin-left: -100%
+	}
+}
+
+@-webkit-keyframes blow-soft-right {
+	0% {
+		margin-left: 0
+	}
+	100% {
+		margin-left: 50%
+	}
+}
+
+@keyframes blow-soft-right {
+	0% {
+		margin-left: 0
+	}
+	100% {
+		margin-left: 50%
+	}
+}
+
+@-webkit-keyframes blow-medium-right {
+	0% {
+		margin-left: 0
+	}
+	100% {
+		margin-left: 100%
+	}
+}
+
+@keyframes blow-medium-right {
+	0% {
+		margin-left: 0
+	}
+	100% {
+		margin-left: 100%
+	}
+}
+
+@-webkit-keyframes sway-0 {
+	0% {
+		-webkit-transform: rotate(-5deg)
+	}
+	40% {
+		-webkit-transform: rotate(28deg)
+	}
+	100% {
+		-webkit-transform: rotate(3deg)
+	}
+}
+
+@keyframes sway-0 {
+	0% {
+		-ms-transform: rotate(-5deg);
+		transform: rotate(-5deg)
+	}
+	40% {
+		-ms-transform: rotate(28deg);
+		transform: rotate(28deg)
+	}
+	100% {
+		-ms-transform: rotate(3deg);
+		transform: rotate(3deg)
+	}
+}
+
+@-webkit-keyframes sway-1 {
+	0% {
+		-webkit-transform: rotate(10deg)
+	}
+	40% {
+		-webkit-transform: rotate(43deg)
+	}
+	100% {
+		-webkit-transform: rotate(15deg)
+	}
+}
+
+@keyframes sway-1 {
+	0% {
+		-ms-transform: rotate(10deg);
+		transform: rotate(10deg)
+	}
+	40% {
+		-ms-transform: rotate(43deg);
+		transform: rotate(43deg)
+	}
+	100% {
+		-ms-transform: rotate(15deg);
+		transform: rotate(15deg)
+	}
+}
+
+@-webkit-keyframes sway-2 {
+	0% {
+		-webkit-transform: rotate(15deg)
+	}
+	40% {
+		-webkit-transform: rotate(56deg)
+	}
+	100% {
+		-webkit-transform: rotate(22deg)
+	}
+}
+
+@keyframes sway-2 {
+	0% {
+		-ms-transform: rotate(15deg);
+		transform: rotate(15deg)
+	}
+	40% {
+		-ms-transform: rotate(56deg);
+		transform: rotate(56deg)
+	}
+	100% {
+		-ms-transform: rotate(22deg);
+		transform: rotate(22deg)
+	}
+}
+
+@-webkit-keyframes sway-3 {
+	0% {
+		-webkit-transform: rotate(25deg)
+	}
+	40% {
+		-webkit-transform: rotate(74deg)
+	}
+	100% {
+		-webkit-transform: rotate(37deg)
+	}
+}
+
+@keyframes sway-3 {
+	0% {
+		-ms-transform: rotate(25deg);
+		transform: rotate(25deg)
+	}
+	40% {
+		-ms-transform: rotate(74deg);
+		transform: rotate(74deg)
+	}
+	100% {
+		-ms-transform: rotate(37deg);
+		transform: rotate(37deg)
+	}
+}
+
+@-webkit-keyframes sway-4 {
+	0% {
+		-webkit-transform: rotate(40deg)
+	}
+	40% {
+		-webkit-transform: rotate(68deg)
+	}
+	100% {
+		-webkit-transform: rotate(25deg)
+	}
+}
+
+@keyframes sway-4 {
+	0% {
+		-ms-transform: rotate(40deg);
+		transform: rotate(40deg)
+	}
+	40% {
+		-ms-transform: rotate(68deg);
+		transform: rotate(68deg)
+	}
+	100% {
+		-ms-transform: rotate(25deg);
+		transform: rotate(25deg)
+	}
+}
+
+@-webkit-keyframes sway-5 {
+	0% {
+		-webkit-transform: rotate(50deg)
+	}
+	40% {
+		-webkit-transform: rotate(78deg)
+	}
+	100% {
+		-webkit-transform: rotate(40deg)
+	}
+}
+
+@keyframes sway-5 {
+	0% {
+		-ms-transform: rotate(50deg);
+		transform: rotate(50deg)
+	}
+	40% {
+		-ms-transform: rotate(78deg);
+		transform: rotate(78deg)
+	}
+	100% {
+		-ms-transform: rotate(40deg);
+		transform: rotate(40deg)
+	}
+}
+
+@-webkit-keyframes sway-6 {
+	0% {
+		-webkit-transform: rotate(65deg)
+	}
+	40% {
+		-webkit-transform: rotate(92deg)
+	}
+	100% {
+		-webkit-transform: rotate(58deg)
+	}
+}
+
+@keyframes sway-6 {
+	0% {
+		-ms-transform: rotate(65deg);
+		transform: rotate(65deg)
+	}
+	40% {
+		-ms-transform: rotate(92deg);
+		transform: rotate(92deg)
+	}
+	100% {
+		-ms-transform: rotate(58deg);
+		transform: rotate(58deg)
+	}
+}
+
+@-webkit-keyframes sway-7 {
+	0% {
+		-webkit-transform: rotate(72deg)
+	}
+	40% {
+		-webkit-transform: rotate(118deg)
+	}
+	100% {
+		-webkit-transform: rotate(68deg)
+	}
+}
+
+@keyframes sway-7 {
+	0% {
+		-ms-transform: rotate(72deg);
+		transform: rotate(72deg)
+	}
+	40% {
+		-ms-transform: rotate(118deg);
+		transform: rotate(118deg)
+	}
+	100% {
+		-ms-transform: rotate(68deg);
+		transform: rotate(68deg)
+	}
+}
+
+@-webkit-keyframes sway-8 {
+	0% {
+		-webkit-transform: rotate(94deg)
+	}
+	40% {
+		-webkit-transform: rotate(136deg)
+	}
+	100% {
+		-webkit-transform: rotate(82deg)
+	}
+}
+
+@keyframes sway-8 {
+	0% {
+		-ms-transform: rotate(94deg);
+		transform: rotate(94deg)
+	}
+	40% {
+		-ms-transform: rotate(136deg);
+		transform: rotate(136deg)
+	}
+	100% {
+		-ms-transform: rotate(82deg);
+		transform: rotate(82deg)
+	}
+}
+
+.sakura {
+	/* background: -webkit-linear-gradient(120deg, rgba(255, 255, 255, 0.6), rgba(255, 255, 255, 0.9));
+    background: linear-gradient(120deg, rgba(255, 255, 255, 0.6), rgba(255, 255, 255, 0.9));*/
+	background: rgb(240, 68, 154);
+	pointer-events: none;
+	position: absolute
+}
+
+.sakura {
+	background: rgb(240, 68, 154);
+}
+
+
+/*******************************/
+
+
+img {
+	max-width: 100%;
+	height: auto;
+}
+
+@media (max-width:900px) {
+	img {
+		max-width: 30%;
+	}
+}
+
+.top-right-decoration {
+	position: absolute;
+	top: 0;
+	right: 0;
+	display: block;
+}
+
+.top-left-decoration {
+	position: absolute;
+	top: 0;
+	left: 0;
+	display: block;
+}
+
+.title h1 {
+	font-family: 'Dancing Script', cursive;
+	font-weight: bold;
+	font-style: normal;
+	font-size: 75px;
+	margin: 32px 0;
+	color: #eece40;
+}
+
+.title h2 {
+	font-family: 'Dancing Script', cursive;
+	font-weight: bold;
+	font-style: normal;
+	margin: 0;
+	padding: 0;
+	font-size: 24px;
+	color: #151100;
+	line-height: 1;
+}
+
+.dance-med {
+	font-family: 'Dancing Script', cursive;
+	font-weight: bolder;
+	font-style: normal;
+	font-size: 32px;
+	color: rgb(205 196 68);
+	margin: 16px;
+	text-align: center;
+}
+
+.invitado-med {
+	font-family: 'Playwrite IT Moderna', cursive;
+	font-weight: bolder;
+	font-style: normal;
+	font-size: 34px;
+	color: rgb(240 68 154 / 55%);
+	margin: 16px;
+	text-align: center;
+	text-decoration: underline;
+}
+
+.title h3 {
+	font-weight: 300;
+	text-transform: uppercase;
+	letter-spacing: 5px;
+	font-size: 24px;
+	color: rgb(240, 68, 154);;
+	margin-top: 5px;
+}
+
+.title p {
+	color: rgb(240, 68, 154);;
+	margin: 30px 0 20px;
+	text-transform: uppercase;
+	letter-spacing: 3px;
+	font-size: 16px;
+}
+
+.wrap {
+	display: -webkit-flex;
+	display: flex;
+	-webkit-flex-wrap: wrap;
+	flex-wrap: wrap;
+	-webkit-justify-content: center;
+	justify-content: center;
+	-webkit-align-items: center;
+	align-items: center;
+	/* padding: 20px; */
+	text-align: center;
+	/* min-height:100%; */
+}
+
+
+/** **/
+
+
+body {
+	justify-content: center;
+	align-items: center;
+	/* height: 100vh;
+    width: 100%; */
+	flex-direction: column;
+	overflow-x: hidden;
+	position: relative;
+	width: 100%;
+	margin-top: 0px !important;
+	margin-left: 0px !important;
+}
+
+body.no-scroll {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	/* height: 100vh;
+    width: 100%; */
+	flex-direction: column;
+	overflow: hidden;
+}
+
+.title {
+	margin-bottom: 40px;
+	width: 100%;
+}
+
+#time {
+	width: auto;
+	height: auto;
+	padding: 20px;
+	background-color: rgb(203 185 20 / 55%);
+	border-radius: 20px;
+	font-size: 20px;
+}
+
+.vestimenta {
+    display: flex; /* Mantiene Flexbox */
+    align-items: center; /* Alinea verticalmente la imagen y el texto */
+    gap: 10px; /* Espacio entre imagen y texto */
+    width: fit-content; /* Se ajusta al contenido */
+    height: auto;
+    padding: 20px;
+    background-color: rgb(240 68 154 / 55%);
+    border-radius: 20px;
+    font-size: 18px;
+}
+
+/* Ajuste del tamaño de la imagen */
+.vestimenta img {
+    width: 40px; /* Mantiene el tamaño de la imagen */
+    height: auto; /* Mantiene la proporción */
+}
+
+.venue {
+	width: auto;
+	height: auto;
+	background-color: rgb(240, 68, 154);;
+	border-radius: 16px;
+	text-align: center;
+	color: #fff;
+	padding: 8px;
+	margin-right: 8px;
+}
+
+.venue a {
+	text-decoration: none;
+	color: #fff;
+}
+
+.container {
+	display: grid;
+	grid-template-columns: 1fr 1fr;
+	border-radius: 10px;
+	overflow: hidden;
+}
+
+.block {
+	width: 180px;
+	height: 160px;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	text-align: center;
+	color: #fff;
+}
+
+.days {
+	background: linear-gradient(90deg, #b33a46, #9b313c);
+}
+
+.hours {
+	background: linear-gradient(90deg, #a7c3cd, #90a9b2);
+}
+
+.minutes {
+	background-color: #874562;
+}
+
+.seconds {
+	background-color: #145689;
+}
+
+.date {
+	color: #2e2a05;
+	font-weight: 900;
+}
+
+.place {
+	color: #874562;
+	font-weight: 900;
+}
+
+.comunicado {
+    color: #564861;
+    text-align: center;
+    font-size: 22px;
+    font-weight: bold;
+    margin: 24px auto;
+    padding: 20px;
+    background: rgba(255, 255, 255, 0.7); /* Fondo sutil color crema */
+    border-radius: 15px;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1); /* Sombra elegante */
+    max-width: 600px; /* Mantiene el ancho controlado */
+    border: 2px solid #e0c3a0; /* Borde tenue dorado */
+    font-family: 'system-ui', cursive; /* Fuente romántica */
+}
+
+/* Resalta la parte más importante del mensaje */
+.comunicado .highlight {
+    font-size: 22px;
+    color: #141314; /* Un tono más elegante */
+}
+
+/* Responsivo: Ajuste en móviles */
+@media (max-width: 600px) {
+    .comunicado {
+        font-size: 20px;
+        padding: 15px;
+    }
+    .comunicado .highlight {
+        font-size: 22px;
+    }
+}
+
+.phone {
+	color: #874562
+}
+
+.end-msg {
+	width: auto;
+	height: auto;
+	padding: 12px;
+	background: linear-gradient(90deg, #b33a46, #9b313c);
+	border-radius: 20px;
+	font-size: 14px;
+	color: #fff;
+	font-size: 24px;
+}
+
+a {
+	text-decoration: none;
+}
+
+.happiness {
+    color: #874562;
+    font-size: 24px;
+    font-weight: bold;
+    text-align: center;
+    margin-bottom: 24px;
+	width: 100%;
+}
+
+/* Resalta el texto del cumpleaños */
+.happiness .highlight {
+    font-size: 26px;
+    color: #ff4081; /* Un rosa vibrante */
+}
+
+/* Estilo para el enlace */
+.birthday-link {
+    display: inline-block;
+    margin-top: 10px;
+    padding: 8px 16px;
+    font-size: 20px;
+    font-weight: bold;
+    color: #fff;
+    background-color: #874562; /* Mantiene el color del texto original */
+    text-decoration: none;
+    border-radius: 8px;
+    transition: background 0.3s ease-in-out;
+}
+
+.birthday-link:hover {
+    background-color: #6b354f; /* Un tono más oscuro al pasar el mouse */
+}
+
+.twitter {
+	color: #874562;
+}
+
+.music {
+	display: block;
+}
+
+.music-button {
+    position: fixed;
+    bottom: 20px;
+    left: 20px;
+    width: 50px;
+    height: 50px;
+    background-color: rgb(203 185 20 / 55%); /* Color dorado con transparencia */
+    color: black;
+    border: none;
+    border-radius: 50%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 24px;
+    cursor: pointer;
+    transition: background 0.3s ease-in-out, transform 0.2s;
+    box-shadow: 2px 2px 10px rgba(0, 0, 0, 0.2);
+    z-index: 1000;
+}
+
+/* Efecto al pasar el mouse */
+.music-button:hover {
+    background-color: rgba(238, 206, 64, 1);
+    transform: scale(1.1);
+}
+
+/* Responsivo: Tamaño más pequeño en móviles */
+@media (max-width: 600px) {
+    .music-button {
+        width: 40px;
+        height: 40px;
+        font-size: 20px;
+    }
+}
+
+.actions {
+    display: flex;
+    justify-content: center; /* Centra el contenido */
+    margin-bottom: 20px; /* Espaciado debajo del código de vestimenta */
+    width: 100%;
+}
+
+.elementor-widget-video .elementor-wrapper iframe, 
+.elementor-widget-video .elementor-wrapper video {
+    width: 100%;
+    max-width: 800px;
+    height: auto;
+}
+
+
+
+#intro-message {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    font-size: 24px;
+    font-family: 'Dancing Script', cursive;
+    color: white;
+    z-index: 2; /* Asegura que el texto quede sobre la capa de fondo */
+}
+
+/* Agregar el fondo con filtro sin afectar el texto */
+#intro-message::before {
+    content: "";
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background: url('../assets/img/bg.jpg') no-repeat center center;
+    background-size: cover;
+    filter: blur(0px) brightness(0.9); /* Aplica desenfoque y reduce el brillo */
+    z-index: -1; /* Envía la imagen detrás del texto */
+} 
+
+ #intro-message.fade-out {
+	opacity: 0;
+	pointer-events: none;
+ }
+
+ #intro-message::before.fade-out {
+	opacity: 0;
+	pointer-events: none;
+ }
+
+ .fade-out {
+    opacity: 0;
+    transition: opacity 1.5s ease-in-out;
+    pointer-events: none;
+}
+
+ #typing-text{
+	padding: 40px;
+	color: rgb(255, 255, 255);
+	text-shadow: 1px 1px 2px rgb(0, 0, 0), 0 0 1em rgb(188, 174, 11), 0 0 0.2em rgb(234, 211, 7);
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	text-align: center;
+	font-size: 22px;
+	font-weight: bold;
+	font-family: "Playwrite IT Moderna", cursive;
+	z-index: 9999;
+	opacity: 1;
+	transition: opacity 1.5s ease-in-out;
+ }
+
+ .typing {
+	display: inline-block;
+	overflow: hidden;
+	white-space: nowrap;
+	border-right: 3px solid white;
+	animation: blinkCursor 0.7s infinite;
+ }
+ @keyframes blinkCursor {
+	50% { border-color: transparent; }
+ }
+
+ /* Zoom-out + fade-out */
+ .wrap.zoom-out {
+	transform: scale(0.5);
+	opacity: 0;
+}
+
+/* Mostrar el resto del contenido */
+.show-content {
+	display: block !important;
+	opacity: 0;
+	animation: fadeIn 1.5s forwards;
+}
+
+@keyframes fadeIn {
+	from { opacity: 0; }
+	to { opacity: 1; }
+}
+
+
+/* Contenedor principal de los bloques */
+.e-flex.e-con-boxed {
+    display: flex;
+    flex-wrap: wrap; /* Permite que los bloques se acomoden en filas */
+    justify-content: center; /* Centra los bloques horizontalmente */
+    gap: 20px; /* Espaciado entre bloques */
+    width: 100%; /* Asegura que los eventos ocupen toda la anchura disponible */
+}
+
+/* Bloques individuales */
+.e-con.e-child {
+    border: 2px solid rgb(203 185 20 / 55%);
+    padding: 20px;
+    border-radius: 10px;
+    background-color: white;
+    box-shadow: 2px 2px 10px rgba(0, 0, 0, 0.1);
+    text-align: center;
+    max-width: 300px;
+    flex: 1;
+    min-width: 250px;
+}
+
+/* Espaciado interno */
+.e-con-inner {
+    padding: 20px;
+}
+
+/* Imagen del icono */
+.elementor-widget-image img {
+    width: 60px;
+    height: 60px;
+    margin-bottom: 10px;
+}
+
+/* Títulos */
+.elementor-widget-heading h3 {
+    font-size: 22px;
+    font-weight: bold;
+    color: black;
+}
+
+.elementor-widget-heading h6,
+.elementor-widget-heading p {
+    font-size: 16px;
+    color: #555;
+}
+
+/* Divider */
+.elementor-divider {
+    margin: 10px 0;
+    border-top: 1px solid rgb(0, 0, 0);
+}
+
+/* Responsividad: En pantallas pequeñas, los bloques se apilan */
+@media (max-width: 768px) {
+    .e-flex.e-con-boxed {
+        flex-direction: column;
+        align-items: center;
+    }
+
+    .e-con.e-child {
+        max-width: 100%; /* Se expanden en móviles */
+    }
+}
+
+
+.carousel-container {
+    width: 100%;
+    overflow: hidden;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 20px;
+	padding-bottom: 20px;
+}
+
+.carousel {
+    display: flex;
+    gap: 10px;
+    overflow-x: auto;
+    scroll-snap-type: x mandatory;
+    width: 80%;
+}
+
+.carousel-image {
+    width: 100%;
+    max-width: 300px;
+    height: auto;
+    border-radius: 10px;
+    cursor: pointer;
+    scroll-snap-align: center;
+	object-fit: cover;
+	object-position: center;
+}
+
+.fullscreen-modal {
+    display: none;
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background: rgba(0, 0, 0, 0.8);
+    justify-content: center;
+    align-items: center;
+    z-index: 1000;
+}
+
+.fullscreen-img {
+    max-width: 90%;
+    max-height: 90%;
+    border-radius: 10px;
+}
+
+/* Estiliza la barra de desplazamiento solo en navegadores basados en WebKit (Chrome, Edge, Safari) */
+.carousel::-webkit-scrollbar {
+    height: 5px; /* Reduce el grosor del scrollbar */
+}
+
+/* Color del "track" (fondo de la barra de desplazamiento) */
+.carousel::-webkit-scrollbar-track {
+    background: transparent; /* O puedes poner un color tenue */
+}
+
+/* Color y forma del "thumb" (la parte que se mueve) */
+.carousel::-webkit-scrollbar-thumb {
+    background: #eece40; /* Color oscuro y semitransparente */
+    border-radius: 10px; /* Bordes redondeados */
+}
+
+/* Efecto al pasar el cursor por encima */
+.carousel::-webkit-scrollbar-thumb:hover {
+    background: rgba(0, 0, 0, 0.8); /* Se oscurece un poco al hacer hover */
+}
+
+
+.creditos {
+    background-color: rgb(203 185 20 / 55%);
+    color: rgb(240, 68, 154);;
+    text-align: center;
+    padding: 10px 0;
+    font-size: 14px;
+    font-weight: bold;
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+	font-family: "system-ui";
+}
+
+/* Primera línea - Nombre de la empresa */
+.empresa {
+    margin: 0;
+    font-size: 20px;
+}
+
+/* Segunda línea - Contacto */
+.contacto {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    font-size: 18px;
+}
+
+/* Estilo para el enlace de WhatsApp */
+.whatsapp-link {
+    display: flex;
+    align-items: center;
+    text-decoration: none;
+    color: rgb(203 185 20 / 55%);
+    font-weight: bold;
+    transition: opacity 0.3s ease-in-out;
+}
+
+/* Ícono de WhatsApp */
+.whatsapp-link i {
+    font-size: 16px;
+    margin-right: 5px;
+}
+
+/* Efecto hover */
+.whatsapp-link:hover {
+    opacity: 0.8;
+}
+
+/* Responsivo */
+@media (max-width: 600px) {
+    .creditos {
+        font-size: 20px;
+    }
+    .empresa {
+        font-size: 22px;
+    }
+    .contacto {
+        flex-direction: column;
+        gap: 5px;
+		font-size: 20px;
+    }
+}
