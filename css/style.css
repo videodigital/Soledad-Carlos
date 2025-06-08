@@ -938,6 +938,12 @@ a {
     background: rgba(0, 0, 0, 0.8); /* Se oscurece un poco al hacer hover */
 }
 
+.padrinos{
+	max-width: 200px;
+	align-items: center;
+	padding: 10px;
+	color: #986d0e;
+}
 
 .creditos {
     background-color: rgb(0 0 0 / 82%);
